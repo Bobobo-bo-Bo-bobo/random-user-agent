@@ -2,4 +2,4 @@ random-user-agent
 tmp/
 *.swp
 .idea/
-
+bin/
