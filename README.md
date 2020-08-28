@@ -1,3 +1,7 @@
+**_Note:_** Because I'm running my own servers for several years, main development is done at at https://git.ypbind.de/cgit/random-user-agent/
+
+----
+
 # Preface
 Sometimes it might be usefull to use a random UserAgent for HTTP/HTTPS request.
 
